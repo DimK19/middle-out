@@ -11,13 +11,13 @@ _Τελική εργασία του μαθήματος «Ψηφιακά Μέσα
 ##### Ενδεικτικές εικόνες και αποτελέσματα
 
 <div>
-<img src="./docs/assets/DSC02435_2.jpg" height="300px" />
-<img src="./docs/assets/Diff_Map_Amp.png" height="300px" />
+<img src="./docs/assets/DSC02435_2.jpg" height="200px" />
+<img src="./docs/assets/Diff_Map_Amp.png" height="200px" />
 </div>
 
 <br />
 
 <div>
-<img src="./docs/assets/ssimy7_size.png" height="250px" />
-<img src="./docs/assets/enc_time.png" height="250px" />
+<img src="./docs/assets/ssimy7_size.png" height="150px" />
+<img src="./docs/assets/enc_time.png" height="150px" />
 </div>
